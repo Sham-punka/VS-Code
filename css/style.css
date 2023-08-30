@@ -1,0 +1,73 @@
+.body {
+    margin: 0;
+}
+.navigation{
+    margin: 0;
+    float: left;
+    height: 100%;
+    padding: 7px 30px;
+}
+ 
+.navigation a{
+    margin: 0;
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+   
+}
+ 
+.navigation a li{   
+    margin: 0; 
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+ 
+.navigation a:hover{
+    margin: 0;
+    background-color: gray;
+    color: #101010;
+}
+
+.header{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    padding: 40px 30px;
+    background-color: #101010;
+   
+}
+.logo-container{
+    margin: 0;
+    height: 100%;
+    width:auto;
+    float: left;
+    padding: 0px 0px;
+    background-color: #101010;
+}
+.logo-container h1{
+    float:left;
+    margin: 0;
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 30px;
+    color: white;
+}
+.content{
+
+    width: 70%;
+    float:right;
+    position:static;       
+}
+.content p{
+    
+    height: 100%;
+    display: table;
+    
+}
+img{
+    width: 30%;
+}
+
